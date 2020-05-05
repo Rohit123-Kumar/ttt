@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ttt"
+    }
+  },
+  "defaultProject": "ttt",
+  "cli": {
+    "analytics": "83510318-9f11-4ec7-9757-f1b6352e16bc"
+  }
 }
